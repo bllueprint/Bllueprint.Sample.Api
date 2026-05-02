@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Bllueprint.Core.Application" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bllueprint.Domain\Bllueprint.Domain.csproj" />
+  </ItemGroup>
+</Project>

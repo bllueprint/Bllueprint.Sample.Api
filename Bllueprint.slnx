@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bllueprint.Api/Bllueprint.Api.csproj" />
+    <Project Path="src/Bllueprint.Application/Bllueprint.Application.csproj" />
+    <Project Path="src/Bllueprint.Domain/Bllueprint.Domain.csproj" />
+    <Project Path="src/Bllueprint.Infrastructure/Bllueprint.Infrastructure.csproj" />
+  </Folder>
+</Solution>
