@@ -3,9 +3,9 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Bllueprint.Core.Application" Version="1.0.0" />
-    <PackageVersion Include="Bllueprint.Core.Domain" Version="1.0.0" />
-    <PackageVersion Include="Bllueprint.Core.Api" Version="1.0.0" />
+    <PackageVersion Include="Bllueprint.Core.Application" Version="10.0.1" />
+    <PackageVersion Include="Bllueprint.Core.Domain" Version="10.0.1" />
+    <PackageVersion Include="Bllueprint.Core.Api" Version="10.0.1" />
     <PackageVersion Include="MediatR" Version="14.1.0" />
     <PackageVersion Include="Microsoft.AspNetCore.OpenApi" Version="10.0.7" />
     <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.7" />
