@@ -1,5 +1,3 @@
-using Bllueprint.Core.Domain;
-
 namespace Bllueprint.Domain;
 
 public class TaskItem : Aggregate<TaskItem>
